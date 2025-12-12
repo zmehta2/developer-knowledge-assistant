@@ -101,7 +101,7 @@ if __name__ == "__main__":
     crawler = GitCrawler()
     
     test_repos = [
-        "https://github.com/pallets/flask.git",
+        "https://github.com/zmehta2/Spring-Boot-Angular-8-CRUD-Example.git",
     ]
     
     for repo_url in test_repos:
